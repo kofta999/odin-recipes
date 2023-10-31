@@ -1,0 +1,29 @@
+* {
+  background-color: #352f44;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #b9b4c7;
+}
+
+div.recipes {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+}
+
+.recipes li {
+  padding: 10px;
+}
+
+.recipes li a {
+  background-color: #5c5470;
+  border-radius: 5px;
+  text-decoration: none;
+  color: #faf0e6;
+}

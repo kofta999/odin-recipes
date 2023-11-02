@@ -15,15 +15,21 @@ div.recipes {
 
 ul {
   list-style: none;
+  padding: 0px;
 }
 
 .recipes li {
-  padding: 10px;
+  margin: 20px auto;
+  text-align: center;
+  width: 100px;
+  height: auto;
+  background-color: #5c5470;
+  border-radius: 5px;
+  padding: 6px 20px;
 }
 
 .recipes li a {
   background-color: #5c5470;
-  border-radius: 5px;
   text-decoration: none;
   color: #faf0e6;
 }
